@@ -27,9 +27,11 @@ After the task, I will ask some post-task questions in order to gain additional 
 
 ### Links to documentation
 ## [Research Guide](https://docs.google.com/document/d/1d2IvysGsyIikkYXqzTV34zb4kAVRVivadgUgsdSz54I/edit?usp=sharing)
-## [Recording]()
+## [Recording](https://drive.google.com/file/d/1KcV7krnwemRRCN2h76kC4w-tR_fT6kH3/view?usp=sharing)
 ## [Transcript](https://docs.google.com/document/d/12GttbvghVWZKwHS0YkK967lrhTUNU4bJKrxzU-og9mA/edit?usp=sharing)
 ## [Field Notes](https://drive.google.com/file/d/1eWcN_UC4nANl8vc28__WJwQqHZ1xCdBP/view?usp=sharing)
 
 ### Reflection
 The most difficult part of this study was definitely designing a framework for the research question. I knew I had to choose a task that would be broad enough where the user's experience best reflects a realistic approach, yet confined enough such that the task would be insightful to my chosen website. In the end, I decided on a vaccination appointment as my task, but I do think that the task was a bit too short; I had a premonition that the inquiry during the task might be too redundant. But nonetheless, I couldn't come up with any better task, so I proceeded with this task. Designing the script was not too difficult, as essentially it was mostly questions that I prepared. I had a tiny bit of technical difficulties as I did not have screenshare permissions on right away, but that was quickly solved. I was actually pleasantly surprised wit some of the feedback I got from my participant, epecially during the post-task section. I learned that even for a simple task like searching for a vaccination appointment, certain design insights are still revealed, as when my participant talked about how he avoids looking at the top of google searched, or how he dislikes the cluttering of visuals for an essential service. The participant also reiterated the importance of credibility when searching for a service like this. All in all, this study surpassd my expectations, and I definitely have learned a lot about the importance of context for insight gathering.
+
+<sub>This research was conducted with the inspiration of previous students' work and references by the professor.</sub>
