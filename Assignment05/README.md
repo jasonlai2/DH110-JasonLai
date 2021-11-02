@@ -18,5 +18,8 @@ The prototype was created entirely on Figma.
 ![Filter](https://user-images.githubusercontent.com/77956479/139788080-4377901c-ffde-48d1-8eaf-a4f896750c03.png)
 ![Registration Complete](https://user-images.githubusercontent.com/77956479/139788084-2c3bb9d1-3dd7-49d2-ba17-a09ab2544854.png)
 
+### Link to Recording
+https://drive.google.com/file/d/1DU7sdJaCfhSNslZLdLoLlt6GijCDdRPy/view?usp=sharing
+
 ### Reflection
 Overall, the testing went very smoothly. My participant had no issue completing all the tasks. The participant pointed out that the placement of the language button is good, so I will keep that in mind as I continue my project. During the registration task, my participant did not interact with any of the sources of frequency buttons, but that may be due to him assuming that he should not interact due to the intended lack of interaction on the personal information page. This may be solved in future tests by telling participants in advanced that the personal information page is the only page intended to not be interacted with.
