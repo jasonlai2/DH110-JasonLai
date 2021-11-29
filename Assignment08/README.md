@@ -17,14 +17,22 @@ To hone in on the design issue, while also allowing for flexible solutions, I de
 ### UX storytelling [persona+scenario, assignment05]
 In order to better understand a user's point of view, as well as provide myself with concrete, direct issues to solve, I created two user personas as well as scenarios to pair with them. These allow me to take my design problem into a storytelling context, allowing for a start and end point to the design issues. In each of these scenarios, I made sure to design/improve a feature in order to solve whatever problems the persona had in their story. UX Storytelling has allowed me to better organize my thoughts in order to create plans for the next steps of my project.
 ![Frame 24](https://user-images.githubusercontent.com/77956479/143799708-12dbd16e-2f84-4769-9eba-8c2b083a565b.png)
+### Wireframe and graphic design element variation [assignment05 + part of 06]
+Using figma, I created a low-fidelity prototype in order to capture two of my planned features: language changing and custom newsletter registrations. I decided on a more minimalistic menu layout to minimize the overcrowding of information that the original website had. In designing the interface, I chose colors that reflected the original essence of the website, while also making sure that no assessibility is compromised.
+
+Wireframes:
+![image](https://user-images.githubusercontent.com/77956479/143801586-2b58c17f-f7f8-40bf-aec2-4153ef680ddc.png)
+Layout Design Drafts:
+![Desktop - 1](https://user-images.githubusercontent.com/77956479/143801704-211f9d5f-9d72-4e88-a86e-88b41e44b7d0.png)
+
 
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
-Using figma, I created a low-fidelity prototype in order to capture two of my planned features: language changing and custom newsletter registrations. I decided on a more minimalistic menu layout to minimize the overcrowding of information that the original website had. The prototype is visually not very outstanding, as I focused on the interaction and flow. I had a participant test out my prototype, to which I recieved positive feedback. [Learn More](https://github.com/jasonlai2/DH110-JasonLai/tree/main/Assignment05)
+I created an interactive, low-fidelity prototype so that I could examine how users would actually use my design solution. I decided on a more minimalistic menu layout to minimize the overcrowding of information that the original website had. The prototype is visually not very outstanding, as I focused on the interaction and flow. I had a participant test out my prototype, to which I recieved positive feedback. 
 
-
+[Prototype](https://www.figma.com/proto/dcOGRnmyw96Mch36pvtbLV/Low-Fidelity-Prototype?page-id=0%3A1&node-id=2%3A2&viewport=241%2C48%2C0.18&scaling=min-zoom&starting-point-node-id=2%3A2&show-proto-sidebar=1)
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+Finally, I combined my layout design and low-fidelity prototype together in order to create my high-fidelity prototype.
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 ### Pitch video 
