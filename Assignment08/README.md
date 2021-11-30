@@ -8,6 +8,8 @@ The main problems with the current website are that items that should be emphasi
 Firstly, I conducted a heuristic evaluation of the Arizona main website and Covid-19 website in order to get a general feel for the website and to catch any immediate issues. I followed Nielson's 10 design heuristics in order to score the websites. [Learn More](https://github.com/jasonlai2/DH110-JasonLai/tree/main/Assignment01)
 ![image](https://user-images.githubusercontent.com/77956479/143795510-37ebeacf-2d2c-406d-8f94-cf38eeca0a8c.png)
 ![image](https://user-images.githubusercontent.com/77956479/143795543-1556c53b-08e0-4de8-b7a5-1a79c6dd25c2.png)
+![image](https://user-images.githubusercontent.com/77956479/144001216-ce5b2aa8-75c1-4bd9-aed7-4f928169d741.png)
+
 
 
 I then held a usability test on the Covid-19 site, designing tasks that I felt would illuminate possible insights and solutions to the issues based on the heuristic evaluation. My participant did indeed find issues with the current website. These discoveries and insights will be taken into account as I proceed with my assignment. [Learn More](https://github.com/jasonlai2/DH110-JasonLai/tree/main/Assignment02)
