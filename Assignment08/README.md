@@ -41,4 +41,10 @@ Finally, I combined my layout design and low-fidelity prototype together in orde
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 ### Pitch video 
-### Conclusion: what did you learn throughout the process?
+
+https://user-images.githubusercontent.com/77956479/144002273-1e71e8a6-3f8d-47f1-9ea8-0731bb73317e.mp4
+
+
+### Conclusion: 
+Although this was not my first UX class, this was my first time doing an entire design challenge on my own. There were definitely nights and days where I was stressed and felt overwhelmed, but those moments are vital to my growth as a UX designer. I learned a lot about specific methodology, learned about the UX industry, and gained valuable experience. Thank you very much Professor Sookie for teaching this course. And thank you for watching this pitch video, I hope you have a great rest of your quarter.
+
